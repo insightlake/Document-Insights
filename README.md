@@ -7,11 +7,11 @@
 
 * Documents list & HTML View
 
-<img style="width:100%;" src="images/documents/document.png">
+<img style="width:100%;" src="images/documents/html-view.png">
 
 * RAW Data View
 
-<img style="width:100%;" src="images/documents/raw-data-view.png">
+<img style="width:100%;" src="images/documents/raw-doc.png">
 
 * Document Search
 
@@ -19,11 +19,19 @@
 
 * Document Review
 
-<img style="width:100%;" src="images/documents/doc-review-page.png">
+<img style="width:100%;" src="images/documents/review-tab.png">
 
 * Text Highligting
 
-<img style="width:100%;" src="images/documents/text-search-highlight.png">
+<img style="width:100%;" src="images/documents/text-highlight.png">
+
+* Project
+
+<img style="width:100%;" src="images/documents/project.png">
+
+* Tags
+
+<img style="width:100%;" src="images/documents/tags.png">
 
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
 
