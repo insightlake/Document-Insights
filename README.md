@@ -35,6 +35,12 @@ Installation
 * Change configuration in /conf folder to set different ports
 * By default H2 database is used, you can change the database details in jdbc.properties file
 
+Installation using docker 
+------
+* Download or clone the repository. 
+* Add configuration property in lib h2.properties file
+* cd docker
+* docker-compose -f docker-compose.yaml up 
 
 License
 ------
