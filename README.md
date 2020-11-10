@@ -33,7 +33,7 @@
 
 <img style="width:100%;" src="images/documents/tags.png">
 
-To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
+To learn more, check out [http://www.insightlake.com/document-insights.html](http://www.insightlake.com/document-insights.html)
 
 Installation
 ------
